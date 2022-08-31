@@ -1,2 +1,2 @@
 new readme
-my readme is up to date now
+my read me is up to date now
